@@ -1,0 +1,6 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Shopware-Core-Changelog.md" file-name="${YEAR}-${MONTH}-${DAY}-${NAME}.md" reformat="false" live-template-enabled="false" />
+    </default_templates>
+</component>
