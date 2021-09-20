@@ -10,7 +10,7 @@ How to:
 
 4) To see all templates, go to *Preferences | Live Templates* and expand the Template Group.
 
-![Settings-Window](https://imgur.com/xJ8TAP2)
+![Settings-Window](https://i.imgur.com/xJ8TAP2.png)
 
 ### PHP ###
 
