@@ -1,5 +1,9 @@
 # Shopware 6 Live Templates for PhpStorm
 
+## Deprecated
+
+Use Jetbrains Plugin instead: https://github.com/shyim/shopware6-phpstorm-plugin
+
 How to:
 
 1) Go to *Preferences | Tools | Settings Repository*
